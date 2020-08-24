@@ -22,7 +22,7 @@
 
 **<u>IOT :-</u>** https://www.shodan.io/
 
-**<u>WordList (SecLists) :-</u>**https://github.com/danielmiessler/SecLists
+**<u>WordList (SecLists) :-</u>** https://github.com/danielmiessler/SecLists
 
 **<u>YouTube Channels ,Security Talks and Conferences :-</u>**
 
