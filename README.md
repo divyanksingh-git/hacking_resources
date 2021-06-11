@@ -32,6 +32,8 @@
 4. https://infocon.org/cons/
 5. https://www.youtube.com/user/BlackHatOfficialYT
 6. https://www.youtube.com/c/ErrOrSquaD/featured
+7. https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+8. https://www.youtube.com/channel/UC3PsooDxvFG0aEBe4JVtAbg
 
 **<u>Forums :-</u>** 
 
@@ -64,3 +66,6 @@
 4. http://google-gruyere.appspot.com/
 5. https://defendtheweb.net/?hackthis
 6. https://www.hellboundhackers.org/
+7. https://www.hackthebox.eu/
+8. https://tryhackme.com/
+9. https://overthewire.org/wargames/
